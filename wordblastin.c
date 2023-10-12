@@ -1,12 +1,3 @@
-/**************************************************************
-* Word Blast
-*
-* Description: This program takes a file from the command line
-* and n number of threads, then splits the data into n chunks
-* and creates n threads which process the data and find all 
-* occurrences of words 6 or more characters long. 
-*
-**************************************************************/
 
 #include <sys/types.h>
 #include <sys/stat.h>
